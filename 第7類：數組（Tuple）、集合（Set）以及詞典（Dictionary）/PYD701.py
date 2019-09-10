@@ -11,10 +11,3 @@ print('Length:', len(tuple_list))
 print('Max:', max(tuple_list))
 print('Min:', min(tuple_list))
 print('Sum:', sum(tuple_list))
-
-"""
-Length: _
-Max: _
-Min: _
-Sum: _
-"""
