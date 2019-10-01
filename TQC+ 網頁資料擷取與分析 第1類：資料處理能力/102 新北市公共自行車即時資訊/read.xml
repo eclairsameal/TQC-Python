@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <row>
+    <sno>1001</sno>
+    <sna>大鵬華城</sna>
+    <tot>38</tot>
+    <sbi>23</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071429</mday>
+    <lat>24.99116</lat>
+    <lng>121.53398</lng>
+    <ar>新北市新店區中正路700巷3號</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>Dapeng Community</snaen>
+    <aren>No. 3, Lane 700 Chung Cheng Road, Xindian District</aren>
+    <bemp>15</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1002</sno>
+    <sna>汐止火車站</sna>
+    <tot>56</tot>
+    <sbi>42</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071436</mday>
+    <lat>25.068914</lat>
+    <lng>121.662748</lng>
+    <ar>南昌街/新昌路口(西側廣場)</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Xizhi Railway Station</snaen>
+    <aren>Nanchang St./Xinchang Rd.</aren>
+    <bemp>14</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1003</sno>
+    <sna>汐止區公所</sna>
+    <tot>46</tot>
+    <sbi>4</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071421</mday>
+    <lat>25.064162</lat>
+    <lng>121.658301</lng>
+    <ar>新台五路一段/仁愛路口(新台五路側汐止地政事務所前機車停車場)</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Xizhi Dist. Office</snaen>
+    <aren>Sec. 1, Xintai 5th Rd./Ren’ai Rd.</aren>
+    <bemp>42</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1004</sno>
+    <sna>國泰綜合醫院</sna>
+    <tot>56</tot>
+    <sbi>36</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071416</mday>
+    <lat>25.07315</lat>
+    <lng>121.662555</lng>
+    <ar>建成路78號對面停車場</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Cathay General Hospital</snaen>
+    <aren>No78, Jiancheng Rd</aren>
+    <bemp>20</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1005</sno>
+    <sna>裕隆公園</sna>
+    <tot>40</tot>
+    <sbi>16</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071418</mday>
+    <lat>24.979649</lat>
+    <lng>121.546319</lng>
+    <ar>寶中路/品牌路口(東南側)</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>Yulon Park</snaen>
+    <aren>Baozhong Rd./</aren>
+    <bemp>24</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1006</sno>
+    <sna>捷運大坪林站(3號出口)</sna>
+    <tot>32</tot>
+    <sbi>16</sbi>
+    <sarea>新店區</sarea>
+    <mday>20180611071439</mday>
+    <lat>24.983977</lat>
+    <lng>121.541721</lng>
+    <ar>寶安街/寶安街58巷(西北側)</ar>
+    <sareaen>Xindian Dist.</sareaen>
+    <snaen>MRT Dapinglin Sta.(Exit.3)</snaen>
+    <aren>Bao'an St./Ln. 58,Bao'an St</aren>
+    <bemp>15</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1007</sno>
+    <sna>汐科火車站(北)</sna>
+    <tot>34</tot>
+    <sbi>14</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071443</mday>
+    <lat>25.064106</lat>
+    <lng>121.653019</lng>
+    <ar>大同路二段184巷/龍安路202巷(西側)(汐科火車站北站出口前)</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Xike Railway Station(North)</snaen>
+    <aren>Ln. 184,Sec. 2, Datong Rd./Ln. 202,Long’an Rd.</aren>
+    <bemp>20</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1008</sno>
+    <sna>興華公園</sna>
+    <tot>40</tot>
+    <sbi>19</sbi>
+    <sarea>三重區</sarea>
+    <mday>20180611071427</mday>
+    <lat>25.060125</lat>
+    <lng>121.483101</lng>
+    <ar>重陽路一段120巷/中華路2巷</ar>
+    <sareaen>Sanchong Dist.</sareaen>
+    <snaen>Xinghua Park</snaen>
+    <aren>Ln. 120, Sec. 1, Chongyang Rd./Ln. 2, Zhonghua Rd.</aren>
+    <bemp>21</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1009</sno>
+    <sna>三重國民運動中心</sna>
+    <tot>68</tot>
+    <sbi>38</sbi>
+    <sarea>三重區</sarea>
+    <mday>20180611071423</mday>
+    <lat>25.054391</lat>
+    <lng>121.488489</lng>
+    <ar>集美街/重新路四段184巷</ar>
+    <sareaen>Sanchong Dist.</sareaen>
+    <snaen>San chong Civil Sports Center</snaen>
+    <aren>Jimei St., Sanchong Dist./Ln. 184, Sec. 4, Chongxin Rd.</aren>
+    <bemp>28</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1010</sno>
+    <sna>捷運三重站(3號出口)</sna>
+    <tot>34</tot>
+    <sbi>21</sbi>
+    <sarea>三重區</sarea>
+    <mday>20180611071421</mday>
+    <lat>25.055883</lat>
+    <lng>121.484739</lng>
+    <ar>捷運路/捷運路37巷</ar>
+    <sareaen>Sanchong Dist.</sareaen>
+    <snaen>MRT Sanchong Sta. (Exit 3)</snaen>
+    <aren>Jieyun Rd./Ln. 37, Jieyun Rd.</aren>
+    <bemp>13</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1011</sno>
+    <sna>樟樹國小</sna>
+    <tot>48</tot>
+    <sbi>37</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071426</mday>
+    <lat>25.066688</lat>
+    <lng>121.640367</lng>
+    <ar>樟樹二路/樟樹一路141巷</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Zhangshu Elementary School</snaen>
+    <aren>Zhangshu 2nd Rd./Ln. 141, Zhangshu 1st Rd.</aren>
+    <bemp>11</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1012</sno>
+    <sna>金龍國小</sna>
+    <tot>52</tot>
+    <sbi>10</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071417</mday>
+    <lat>25.0688</lat>
+    <lng>121.628908</lng>
+    <ar>中興路/民族六街</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Jinlong Elementary School</snaen>
+    <aren>Zhongxing Rd./Minzu 6th St.</aren>
+    <bemp>42</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1013</sno>
+    <sna>白雲國小</sna>
+    <tot>46</tot>
+    <sbi>23</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071426</mday>
+    <lat>25.047578</lat>
+    <lng>121.618888</lng>
+    <ar>民權街二段90號</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Pai Yun Primary School</snaen>
+    <aren>No.90, Sec. 2, Minquan St.</aren>
+    <bemp>22</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1014</sno>
+    <sna>東勢宜興活動中心</sna>
+    <tot>52</tot>
+    <sbi>25</sbi>
+    <sarea>汐止區</sarea>
+    <mday>20180611071445</mday>
+    <lat>25.039031</lat>
+    <lng>121.624333</lng>
+    <ar>東勢街/芳園街</ar>
+    <sareaen>Xizhi Dist.</sareaen>
+    <snaen>Yixing-Dongshi Civic Center</snaen>
+    <aren>Dongshi St./Fangyuan St.</aren>
+    <bemp>20</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1015</sno>
+    <sna>後港公園</sna>
+    <tot>40</tot>
+    <sbi>20</sbi>
+    <sarea>新莊區</sarea>
+    <mday>20180611071441</mday>
+    <lat>25.025358</lat>
+    <lng>121.428348</lng>
+    <ar>建安街/建安街57巷</ar>
+    <sareaen>Xinzhuang Dist.</sareaen>
+    <snaen>Hougang Park</snaen>
+    <aren>Ln. 57, Jian’an St./Jian’an St.</aren>
+    <bemp>20</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1016</sno>
+    <sna>福營行政中心</sna>
+    <tot>42</tot>
+    <sbi>18</sbi>
+    <sarea>新莊區</sarea>
+    <mday>20180611071428</mday>
+    <lat>25.0241250</lat>
+    <lng>121.423870</lng>
+    <ar>四維路17號-20號</ar>
+    <sareaen>Xinzhuang Dist.</sareaen>
+    <snaen>Fuying Administration Center</snaen>
+    <aren>No.17, Siwei Rd./No.20, Siwei Rd.</aren>
+    <bemp>24</bemp>
+    <act>1</act>
+  </row>
+  <row>
+    <sno>1017</sno>
+    <sna>西盛公園</sna>
+    <tot>36</tot>
+    <sbi>22</sbi>
+    <sarea>新莊區</sarea>
+    <mday>20180611071437</mday>
+    <lat>25.017113</lat>
+    <lng>121.428048</lng>
+    <ar>新莊區西盛街/西盛街201巷</ar>
+    <sareaen>Xinzhuang Dist.</sareaen>
+    <snaen>Xisheng Park</snaen>
+    <aren>Xisheng St./Ln. 201, Xisheng St.</aren>
+    <bemp>14</bemp>
+    <act>1</act>
+  </row>
+</data>
