@@ -5,7 +5,7 @@ else :
     print("{} is not a leap year.".format(y))
 
     
-# version: George
+# version: elif
 year = int(input('Please input year:'))
 
 if( year % 400 == 0):
@@ -16,3 +16,21 @@ elif( year % 4 == 0):
     print('{} is a leap year.'.format(year))
 else:
     print('{} is a normal year.'.format(year))
+
+    
+# version: nest if
+year = int(input('Please input year:'))
+
+if( year % 400 == 0):
+    print('{} is a leap year.'.format(year))
+else:
+    if( year % 100 == 0):
+        print('{} is a normal year.'.format(year))
+    else:
+        if( year % 4 == 0):
+            print('{} is a leap year.'.format(year))
+        else:
+            print('{} is a normal year.'.format(year))
+            
+
+            
