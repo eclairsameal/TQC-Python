@@ -12,5 +12,4 @@ print(datas)
 
 fp.seek(0)
 fp.write(datas)
-fp.write(datas)
 fp.close()
