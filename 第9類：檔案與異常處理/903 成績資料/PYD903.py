@@ -1,4 +1,4 @@
-file = open("data-903.txt", 'a+')
+file = open("data.txt", 'a+')
 
 for i in range(5):
     file.write('\n' + input())
