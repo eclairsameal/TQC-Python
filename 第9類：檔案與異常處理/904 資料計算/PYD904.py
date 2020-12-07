@@ -6,7 +6,7 @@ The heaviest is _ with _kg
 """
 data, name, height, weight = [], [], [], []
 
-fp=open('read-904.txt','r',encoding='UTF-8')
+fp=open('read.txt','r',encoding='UTF-8')
 for line in fp:  
     print(line)   
     data = (line.replace('\n', ' ').split(' ')) # 將每行字串切割成串列
@@ -20,5 +20,3 @@ tallest_i = height.index(max(height))
 print("The tallest is {} with {:.2f}cm".format(name[tallest_i], height[tallest_i]))
 heaviest_i = weight.index(max(weight))
 print("The heaviest is {} with {:.2f}kg".format(name[heaviest_i], weight[heaviest_i]))
-
-
