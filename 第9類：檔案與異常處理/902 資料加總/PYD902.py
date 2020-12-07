@@ -1,4 +1,4 @@
-f = open("read02.txt")
+f = open("read.txt")
 str = f.read()
 sum = 0
 sp_str = str.split()
