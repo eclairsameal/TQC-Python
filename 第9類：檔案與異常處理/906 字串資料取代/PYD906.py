@@ -10,3 +10,7 @@ print(data)
 print("=== After the replacement")
 data = data.replace(str_old, str_new)
 print(data)
+
+fp.seek(0)
+fp.write(datas)
+fp.close()
