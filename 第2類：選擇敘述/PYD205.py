@@ -11,11 +11,11 @@ else:
     
 char = input()
 if str.isalpha(char):
-    print(char,"is an alphabet.")
+    print("{} is an alphabet.".format(char))
 elif str.isdigit(char):
-    print(char,"is a number.")
+    print("{} is a number.".format(char))
 else:
-    print(char,"is a symbol.")
+    print("{} is a symbol.".format(char))
 """
 _ is an alphabet.
 _ is a number.
