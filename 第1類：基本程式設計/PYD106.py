@@ -1,5 +1,10 @@
 x = eval(input())
 y = eval(input())
 z = eval(input())
+speed = (z/1.6)/((x/60) + (y/3600))
+print("Speed = {:.1f}".format(speed))
 
+x = eval(input())
+y = eval(input())
+z = eval(input())
 print("Speed = {:.1f}".format((z/1.6)/((x/60) + (y/3600))))
