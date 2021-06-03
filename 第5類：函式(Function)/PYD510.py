@@ -18,3 +18,16 @@ def fib_iterative(n):
     return f2
 for i in range(num):
     print(fib_iterative(i), end=" ")
+
+    
+def compute(n):
+    if n == 0:
+        return 0
+    f1 = 1
+    f2 = 1
+    for i in range(2, n):  # 當 n < 3 時不會進入迴圈
+        f1 = f2 
+        f2 = f1 + f2
+    return f2
+for i in range(num):
+    print(fib_iterative(i), end=" ")
