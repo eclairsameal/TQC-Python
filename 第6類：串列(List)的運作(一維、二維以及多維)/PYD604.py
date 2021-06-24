@@ -6,8 +6,11 @@ def input_num(n):
 
 n = 10
 num_list = input_num(n)
+m_num = 0
 for i in range(n):
-    if num_list.count(num_list[i]) > 1:
-        print(num_list[i])
-        print(num_list.count(num_list[i]))
-        break
+    if num_list.count(num_list[i]) > num_list.count(num_list[m_num]):
+        m_num = i   
+print(num_list[m_num])
+print(num_list.count(num_list[m_num]))
+
+
